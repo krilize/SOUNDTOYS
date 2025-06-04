@@ -1,0 +1,19 @@
+body {
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
+
+.dg.ac {
+  z-index: 1000 !important;
+}
+
+.dg.main {
+  position: absolute !important;
+  top: 10px !important;
+  right: 10px !important;
+}
